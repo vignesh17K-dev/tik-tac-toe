@@ -1,4 +1,4 @@
-import { Col, Container ,Card,CardBody,Row, CardImg } from "reactstrap"
+import { Col, Container ,Card,CardBody,Row } from "reactstrap"
 import "./Img.css"
 
 
